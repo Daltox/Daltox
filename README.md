@@ -1,6 +1,8 @@
 ### Hi, I'm Dalto Brito 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Dalto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dalto-brito/)](https://www.linkedin.com/in/dalto-brito/)
 
+![Dalto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daltox&show_icons=true&theme=dark)
+
 <!--
 **Daltox/Daltox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
